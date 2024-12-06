@@ -11,7 +11,7 @@ MegaParse is a powerful and versatile parser that can handle various types of do
 - **Versatile Parser**: MegaParse is a powerful and versatile parser that can handle various types of documents with ease.
 - **No Information Loss**: Focus on having no information loss during parsing.
 - **Fast and Efficient**: Designed with speed and efficiency at its core.
-- **Wide File Compatibility**: Supports Text, PDF, Powerpoint presentations, Excel, CSV, Word documents.
+- **Wide File Compatibility**: Supports Text, PDF, Powerpoint presentations, Excel, CSV, Word documents, Pdf.
 - **Open Source**: Freedom is beautiful, and so is MegaParse. Open source and free to use.
 
 ## Support
